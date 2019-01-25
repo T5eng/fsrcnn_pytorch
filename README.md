@@ -10,6 +10,9 @@ I did some minor modification to acquire better approach to the paper.
 - pytorch 1.0.0
 
 ## Usage
+dataset:
+create dir './dataset/BSDS500/images/[train, test]' and fill in your data
+
 train:
 ```bash
 $ python3 main.py
